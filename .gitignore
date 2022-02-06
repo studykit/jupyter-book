@@ -1,0 +1,10 @@
+*.pdf
+_build/
+.fake
+.ionide
+*.calss
+*.vo
+*.vok
+*.vos
+node_modules/
+out/
