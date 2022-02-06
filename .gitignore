@@ -2,9 +2,10 @@
 _build/
 .fake
 .ionide
-*.calss
+*.class
 *.vo
 *.vok
 *.vos
 node_modules/
 out/
+.DS_Store
